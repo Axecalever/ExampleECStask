@@ -77,5 +77,5 @@ If everything is set up correctly, you should receive:
 {"datetime": "2024-03-24T12:34:56.789Z"}
 ```
 
-**Assumptions**
+##Assumptions 
 1. Runner is running inside EC2 in order for it to assume the role and talk to ECR and relevant services.
